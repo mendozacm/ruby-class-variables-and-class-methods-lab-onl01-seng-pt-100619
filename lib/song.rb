@@ -1,5 +1,6 @@
 class Song
   def song(name, artist, genre)
+  end
   def name 
   
   end
