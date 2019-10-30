@@ -1,4 +1,5 @@
-class Song 
+class Song
+  song.new 
   def name 
   
   end
