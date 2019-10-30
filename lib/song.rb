@@ -1,4 +1,4 @@
-class Song
+class Song(name, artist, genre)
   def new(name, artist, genre)
   end
   def name 
