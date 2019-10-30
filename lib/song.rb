@@ -1,5 +1,5 @@
 class Song
-  song.new 
+  def song(name, artist, genre)
   def name 
   
   end
