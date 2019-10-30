@@ -6,6 +6,9 @@ class Song
   end
   
   @@genre = []
+  
+  def self.genre
+    genre.unique 
  attr_accessor :name
  attr_accessor :artist
  attr_accessor :genre
